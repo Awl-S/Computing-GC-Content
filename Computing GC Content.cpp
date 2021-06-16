@@ -1,7 +1,6 @@
 ﻿#include <iostream>
 #include <string>
 #include <iomanip>
-#include <vector>
 using namespace std;
 int main() {
 	int count; cin >> count; // количество данных
